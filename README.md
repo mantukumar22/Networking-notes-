@@ -1,5 +1,5 @@
 # Networking-notes-
-# Networking for Ethical Hackers (2027 Edition)
+# Networking for Ethical Hackers
 
 ## Why Networking Matters
 
